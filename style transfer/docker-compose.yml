@@ -9,6 +9,7 @@ services:
       - backend
     volumes:
         - ./storage:/storage
+        
   backend:
     build: backend
     ports:
