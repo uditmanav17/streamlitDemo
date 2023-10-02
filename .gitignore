@@ -6,6 +6,8 @@ storage
 
 # files
 *.db
+/nfl player collision detection/test_video.mp4
+/nfl player collision detection/yolo8_model.pt
 
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
