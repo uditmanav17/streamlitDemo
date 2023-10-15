@@ -1,0 +1,5 @@
+/data/*
+/runs/*
+/y8_image_dataset_split/*
+/y8_train_config.yaml
+/yolov8n.pt
