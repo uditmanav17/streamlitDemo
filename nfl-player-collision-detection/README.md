@@ -48,9 +48,10 @@ The deployed application endpoint can be found [here](https://nfl-collision-coun
 
 
 ## Application Demo
-<p align="center">
+https://drive.google.com/file/d/1Fx74MfKMp68kK7JljwYiFaJD_QTwgOP1/preview
+<!-- <p align="center">
 <iframe allowfullscreen="allowfullscreen" src="https://drive.google.com/file/d/1Fx74MfKMp68kK7JljwYiFaJD_QTwgOP1/preview" width="960" height="540" allow="autoplay"></iframe>
-</p>
+</p> -->
 <!-- ## Possible Future Improvements -->
 
 
